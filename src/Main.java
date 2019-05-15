@@ -3,7 +3,6 @@ public class Main {
 
         System.out.println("Comit from Azzzik");
         System.out.println("NK changes test");
-        System.out.println("update nk branch");
 
     }
 }
